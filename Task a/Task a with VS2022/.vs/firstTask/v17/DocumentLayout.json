@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive\\Desktop\\24.08.2024 tasks\\Task a\\Task a with VS2022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{882DDD87-0F73-48CB-B4E7-BE8BE32A6987}|firstTask\\firstTask.csproj|c:\\users\\hp\\onedrive\\desktop\\24.08.2024 tasks\\task a\\task a with vs2022\\firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882DDD87-0F73-48CB-B4E7-BE8BE32A6987}|firstTask\\firstTask.csproj|solutionrelative:firsttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive\\Desktop\\24.08.2024 tasks\\Task a\\Task a with VS2022\\firstTask\\Program.cs",
+              "RelativeDocumentMoniker": "firstTask\\Program.cs",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive\\Desktop\\24.08.2024 tasks\\Task a\\Task a with VS2022\\firstTask\\Program.cs",
+              "RelativeToolTip": "firstTask\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T19:33:54.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

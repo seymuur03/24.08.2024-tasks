@@ -1,0 +1,14 @@
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\bin\Debug\net6.0\firstTask.exe
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\bin\Debug\net6.0\firstTask.deps.json
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\bin\Debug\net6.0\firstTask.runtimeconfig.json
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\bin\Debug\net6.0\firstTask.dll
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\bin\Debug\net6.0\firstTask.pdb
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\firstTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\firstTask.AssemblyInfoInputs.cache
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\firstTask.AssemblyInfo.cs
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\firstTask.csproj.CoreCompileInputs.cache
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\firstTask.dll
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\refint\firstTask.dll
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\firstTask.pdb
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\firstTask.genruntimeconfig.cache
+C:\Users\Hp\OneDrive\Desktop\24.08.2024 tasks\firstTask\firstTask\obj\Debug\net6.0\ref\firstTask.dll
